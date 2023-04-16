@@ -1,0 +1,1 @@
+Clone repository to your local folder -> Open project in VS Code -> Start project with "Live Server" (could be downloaded in "extensions" segment). App implements Queue data structure and saves data on localStorage in Browser.
